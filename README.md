@@ -89,3 +89,7 @@
 - Node.js 16+
 - PostgreSQL 12+
 - Redis 6+
+
+## 系统试用
+
+VX：admin6016
