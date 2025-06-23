@@ -59,6 +59,13 @@
 - 一键转写发布
 - 支持主流媒体平台
 
+### 8. 支持二次开发和Coze工作流、智能体、MCP服务
+- 矩阵系统登陆的账号，支持笔记一键发布到小红书
+![Coze插件](https://cloudpan-1257929529.cos.ap-guangzhou.myqcloud.com/plugin_name_info.png)
+- 插件支持工作流、智能体、MCP服务
+![插件参数说明](https://cloudpan-1257929529.cos.ap-guangzhou.myqcloud.com/plugin_intro.png)
+
+- 系统内提供了单独的API接口文档和主流编程语言的demo，方便进行二次开发。
 ## 技术栈
 
 ### 后端
