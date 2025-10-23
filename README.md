@@ -67,6 +67,10 @@
 ![插件参数说明](https://cloudpan-1257929529.cos.ap-guangzhou.myqcloud.com/plugin_intro.png)
 
 - 系统内提供了单独的API接口文档和主流编程语言的demo，方便进行二次开发。
+
+### 9. 支持Sora2视频生成发布
+![Sora2](https://github.com/Admin6016/xhs_matrix_system/blob/main/b05c41ea-7cce-473f-a0d7-02543f6fd374.png)
+
 ## 技术栈
 
 ### 后端
