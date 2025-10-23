@@ -99,5 +99,5 @@
 - Redis 6+
 
 ## 系统试用
+![企业微信](https://github.com/Admin6016/xhs_matrix_system/blob/main/wx2.jpg)
 
-VX：admin6016
