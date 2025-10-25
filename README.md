@@ -21,6 +21,7 @@
 - 智能仿写功能
 - 素材分类管理
 - 快速发布
+- ![批量改写发布](https://github.com/Admin6016/xhs_matrix_system/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20251025164606_6_90.png?raw=true)
 
 ### 3. 账号管理
 
